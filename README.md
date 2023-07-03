@@ -6,7 +6,7 @@ I am a Frontend Developer
 
 I fell in love with frontend development and am now actively studying it. I will be glad to cooperate.
 
-* 🌍  I'm based in Perm and Ekaterenburg
+* 🌍  I'm based in Perm, Russia
 * 🖥️  See my portfolio at [Igor' Emelyanov Frontend Developer](http://emelyanovi.github.io/portfolio/)
 * ✉️  You can contact me at [Email](mailto:dev.emelyanovii@gmail.com)
 * 🚀  I'm currently working on [Metrika Interior Design Studio](https://emelyanovi.github.io/metrika/)
@@ -15,7 +15,7 @@ I fell in love with frontend development and am now actively studying it. I will
 * ⚡  I love when everything is in its place
 
 <a href="https://www.github.com/emelyanovi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/emelyanovi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 
