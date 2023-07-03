@@ -14,8 +14,8 @@ I fell in love with frontend development and am now actively studying it. I will
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  I love when everything is in its place
 
-<a href="https://www.github.com/emelyanovi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/emelyanovi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/emelyanovi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/emelyanovi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+
 ### Skills
 
 
