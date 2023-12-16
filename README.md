@@ -7,10 +7,7 @@ I am a Frontend Developer
 I fell in love with frontend development and am now actively studying it. I will be glad to cooperate.
 
 * 🌍  I'm based in Perm, Russia
-* 🖥️  See my portfolio [Frontend Developer](http://emelyanovi.github.io/portfolio/)
 * ✉️  You can contact me at [Email](mailto:dev.emelyanovii@gmail.com)
-* 🚀  I'm currently working on [Metrika Interior Design Studio](https://emelyanovi.github.io/metrika/)
-* 🧠  I'm learning HTML, CSS, JS, React, Webpack
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  I love when everything is in its place
 
